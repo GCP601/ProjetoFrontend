@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "name": "Smartphone Samsung Galaxy S23",
+    "description": "Smartphone Android com 256GB, 8GB RAM, Câmera Tripla 50MP",
+    "price": 2999.99,
+    "category": "Eletrônicos",
+    "pictureUrl": "https://picsum.photos/300/300?tech=1"
+  },
+  {
+    "id": "2",
+    "name": "Notebook Dell Inspiron 15",
+    "description": "Notebook Intel i7, 16GB RAM, SSD 512GB, Windows 11 Pro",
+    "price": 4299.99,
+    "category": "Informática",
+    "pictureUrl": "https://picsum.photos/300/300?computer=2"
+  }
+]
